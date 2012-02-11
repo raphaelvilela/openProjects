@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+
+#radio_player {
+	position:absolute;
+    left:50%;
+    right:50%;
+    top:0px;
+}
+
+#main_menu a {
+	font-size: 16px;
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+#main_menu {
+	color:#FFFFFF;
+	font-size: 12px;
+	vertical-align: bottom;
+	text-decoration: none;
+	text-align: right;
+}
+
+#header {
+	text-align: center;
+	background-color: white;
+}
+
+#main_body{
+	background:#F3F3F3;
+	width:972px;
+	margin:0px;
+	margin-left: auto; margin-right: auto;
+	margin-top:0px;
+	padding:10px;
+	margin-top:10px;
+	text-align: justify;
+	vertical-align: top;
+}
+
+#main_body td {
+	vertical-align: top;
+	padding: 5px;	
+}
+
+
+#footer{
+	width:972px;
+	margin:0px;
+	margin-left: auto; margin-right: auto;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:9px;
+	color:#333;
+	text-align:right;
+	padding:4px;
+	border-top-color:#333;
+	border-top-style: solid	;
+	border-top-width:thin;
+	margin-top:10px;
+}
+
+.main_title{
+	font-size: 22px;
+	padding: 10px;
+}
+
+H3{
+	font-size: 22px;
+}
+
+#YouTubeReloadedPlayer{
+}
+
+
+
+
