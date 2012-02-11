@@ -1,0 +1,12 @@
+
+
+.barra_paginacao{
+	font-size: 10px;
+	visibility: block;
+}
+
+.thumb{
+	border-color: #000000;
+	border-width: 1px;
+	margin: 2px;
+}
